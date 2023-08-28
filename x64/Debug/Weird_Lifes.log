@@ -1,0 +1,21 @@
+﻿  main.c
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(29,3): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(267,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(271,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(290,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(290,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(290,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(290,11): message : this argument is used as a buffer size
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(351,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(405,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(405,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(405,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(405,11): message : this argument is used as a buffer size
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(416,10): warning C4098: 'RockPaperScisors': 'void' function returning a value
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(425,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(425,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(425,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(425,10): message : this argument is used as a buffer size
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(677,10): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Usuario\Desktop\Weird_Lifes\main.c(452): warning C4715: 'PlayerSelection': not all control paths return a value
+  Weird_Lifes.vcxproj -> C:\Users\Usuario\Desktop\Weird_Lifes\x64\Debug\Weird_Lifes.exe
